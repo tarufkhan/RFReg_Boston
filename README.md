@@ -1,6 +1,6 @@
 # Boston house prediction using Random Forest Regressor
 
-Whats done here -
+What's done here -
 * Import all the required libraries/modules.
 * Load the boston house dataset from load_boston() which is in sklearn.datasets.
 * Read the dataset using pandas.
